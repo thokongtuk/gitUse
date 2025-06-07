@@ -6,5 +6,10 @@ public class Test
         {
             var number = 0;
         }
+
+        if (2 = 2)
+        {
+            var number = 0;
+        }
     }
 }
