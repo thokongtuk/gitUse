@@ -11,5 +11,10 @@ public class Test
         {
             var number = 0;
         }
+
+        if (3 = 3)
+        {
+            var number = 0;
+        }
     }
 }
